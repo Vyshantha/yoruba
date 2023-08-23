@@ -1,5 +1,5 @@
 # Yorùbá Àébájìogbè Odùduwà
-Yorùbá (Latin) to Àébájìogbè Odùduwà Yorùbá _Transliteration/Script Translation_ for standard Yorùbá in all over the World
+Yorùbá (Latin) to Àébájìogbè Odùduwà Yorùbá [_Transliteration/Script Translation_](https://vyshantha.github.io/yoruba-transliterate/) for standard Yorùbá in all over the World
 
 This tool is build as a joint effort from **World Script Explorer** and the Odùduwà Alphabet Alphanumeric Àébájìogbè Odùduwà committee. The Web Font Aebajiogbe Oduduwa (WOFF) is for the Oduduwa script which is written from right-to-left script with numerals also being used right-to-left, the Fonts are built on the Arabic Unicode space & the numerals are based of off the Adlam Unicode space. The _Transliteration/script Translation_ tool is built as a solution until the Unicode space is allocated for Oduduwa script.
 
